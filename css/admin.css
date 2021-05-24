@@ -1,0 +1,130 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Handlee', cursive;
+    font-family: 'Baloo Bhai 2', cursive;
+    /*font-family: 'Hachi Maru Pop', cursive;*/
+}
+
+.wrapper{
+    /* border: 1px solid black; */
+    width: 90%;
+    padding: 1%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.tbl-full{
+    width: 100%;
+}
+
+.tbl-30{
+    width: 50%;
+}
+
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td{
+    padding: 1%;
+}
+
+.btn-primary{
+    background-color: #1e90ff;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: #3742fa;
+}
+
+.btn-secondary{
+    background-color: #7bed9f;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+    background-color: #2ed573;
+}
+
+.btn-danger{
+    background-color: #ff6b81;
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger:hover{
+    background-color: #ff4757;
+}
+
+.success{
+    color: #2ed573;
+}
+.error{
+    color: #ff4757;
+}
+
+
+/* CSS For Menu */
+.menu{
+    border-bottom: 1px solid grey;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding:2%
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #eb7d8d;
+}
+.menu ul li a:hover{
+color: #ff4757;
+}
+
+/* CSS For main content */
+.main-section{
+    background-color: #f1f2f6;
+    padding: 3%;
+}
+.col-4{
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+
+
+
+/* CSS For Footer */
+.footer{
+    background-color: #ff4757;
+    color: white;
+}
+
+/*  CSS For Login */
+.login{
+    border: 1px solid black;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+}
