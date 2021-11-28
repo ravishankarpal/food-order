@@ -19,7 +19,7 @@
     <!-- footer Section Starts Here -->
     <section class="footer">
         <div class="container text-center">
-            <p>&copy; All rights reserved. Designed By <a href="#">Abhinav Arya</a>,<a href="#">Ravi Shankar Pal</a>,<a href="#">Ritika Mishra</a> and <a href="#">Sonam Verma</a></p>
+            <p>&copy; All rights reserved. Designed By <a href="#">Ravi Shankar Pal</a></p>
         </div>
     </section>
     <!-- footer Section Ends Here -->
